@@ -12,3 +12,9 @@ body {
 	align-items: center;
 	height: 100vh;
 }
+
+.card {
+	border: 5px solid orangered;
+
+	margin: 2rem 0 2rem 0;
+}
