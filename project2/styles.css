@@ -15,6 +15,15 @@ body {
 
 .card {
 	border: 5px solid orangered;
+	margin: 2rem;
+	padding: 3rem;
+	border-radius: 10px;
+	color: #000;
+	background: #ff0;
+	box-shadow: blue 10px 5px 5px;
+}
 
-	margin: 2rem 0 2rem 0;
+#info {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
 }
